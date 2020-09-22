@@ -41,9 +41,9 @@ python3 node/node.py 10.0.0.1
 ## Team Details
 ### Mesh Team (Mesh Creation)
 - Shivam Waghela
+- Ankita Chikodi
 - Pranjal Sharma
 - Nehal Sharma
-- Ankita Chikodi
 - Shivang Mistry
 ### Mesh Team (Node Traversal)
 - Sanjna Dhamejani
